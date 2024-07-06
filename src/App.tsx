@@ -29,7 +29,7 @@ function App() {
                 Faqs
               </div>
             </div>
-            <button className="bg-[#ea580c] rounded-full py-3 px-7  hover:cursor-pointer">
+            <button className="bg-[#ea580c] rounded-full py-3 px-7 hover:brightness-110 active:brightness-90  hover:cursor-pointer">
               Get Started
             </button>
         </div>
